@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44793118649",
+    "project_id": "screenview-demo",
+    "storage_bucket": "screenview-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44793118649:android:ac2b4c544bb4e5d1654068",
+        "android_client_info": {
+          "package_name": "com.example.screenview_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5zkyZdgxJyrAwCu82hd3_qZpAxPaGfsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
